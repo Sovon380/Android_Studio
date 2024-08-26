@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="button">Visit Company</string>
+    <string name="textView">Select a company type to see recommendations.</string>
+    <string name="image_desc">Selected Company Image</string>
+    <string-array name="role">
+        <item>Google</item>
+        <item>Meta</item>
+        <item>Apple</item>
+        <item>Amazon</item>
+        <item>Netflix</item>
+    </string-array>
+</resources>
